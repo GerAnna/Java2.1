@@ -3,10 +3,10 @@ public class Main {
       int price;
       price = 25_000;
       int mileCost;
-      MileCost = 20;
-      int Mile;
-      Mile = price/mileCost;
-        System.out.println(Mile + " миль Вы получаете в подарок!");
+      mileCost = 20;
+      int mile;
+      mile = price/mileCost;
+        System.out.println(mile + " миль Вы получаете в подарок!");
 
     }
 }
